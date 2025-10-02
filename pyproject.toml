@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "T2-text-tools"
-version = "0.0.1"
-description = "collection of nodes for prompt management and combination"
+version = "0.0.2"
+description = "collection of nodes for prompt batching and management"
 authors = [
   {name = "Comfy", email = "corekord@gmail.com"}
 ]
