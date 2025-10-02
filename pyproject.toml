@@ -30,12 +30,13 @@ dev = [
 
 [project.urls]
 bugs = "https://github.com/conKORD/comfyui-text-tools/issues"
-homepage = "https://github.com/conKORD/comfyui-text-toolss"
+homepage = "https://github.com/conKORD/comfyui-text-tools"
+Repository = "https://github.com/conKORD/comfyui-text-tools"
 
 
 [tool.comfy]
-PublisherId = "corekord"
-DisplayName = "Prompt tools"
+PublisherId = "conkord"
+DisplayName = "T2 text tools"
 Icon = ""
 
 
